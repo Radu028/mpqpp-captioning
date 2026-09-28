@@ -1,0 +1,6 @@
+sacrebleu==2.5.1
+bert-score==0.3.13
+unbabel-comet==2.2.7
+transformers==4.45.2
+numpy<2
+setuptools==80.9.0

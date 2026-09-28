@@ -1,0 +1,9 @@
+.venv*/
+data/
+coco/
+images/
+*.zip
+runs/
+logs/
+__pycache__/
+*.tmp
