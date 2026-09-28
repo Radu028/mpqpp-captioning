@@ -1,0 +1,1848 @@
+{
+  "0": {
+    "caption_en": "A red colored car.",
+    "images": [
+      {
+        "image_id": 1000000,
+        "path": "drawbench/0/image_4.png"
+      },
+      {
+        "image_id": 1000001,
+        "path": "drawbench/0/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "1": {
+    "caption_en": "A black colored car.",
+    "images": [
+      {
+        "image_id": 1000004,
+        "path": "drawbench/1/image_4.png"
+      },
+      {
+        "image_id": 1000005,
+        "path": "drawbench/1/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "2": {
+    "caption_en": "A pink colored car.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "3": {
+    "caption_en": "A black colored dog.",
+    "images": [
+      {
+        "image_id": 1000012,
+        "path": "drawbench/3/image_4.png"
+      },
+      {
+        "image_id": 1000013,
+        "path": "drawbench/3/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "4": {
+    "caption_en": "A red colored dog.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "5": {
+    "caption_en": "A blue colored dog.",
+    "images": [
+      {
+        "image_id": 1000020,
+        "path": "drawbench/5/image_4.png"
+      },
+      {
+        "image_id": 1000021,
+        "path": "drawbench/5/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "6": {
+    "caption_en": "A green colored banana.",
+    "images": [
+      {
+        "image_id": 1000024,
+        "path": "drawbench/6/image_4.png"
+      },
+      {
+        "image_id": 1000025,
+        "path": "drawbench/6/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "7": {
+    "caption_en": "A red colored banana.",
+    "images": [
+      {
+        "image_id": 1000028,
+        "path": "drawbench/7/image_4.png"
+      },
+      {
+        "image_id": 1000029,
+        "path": "drawbench/7/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "8": {
+    "caption_en": "A black colored banana.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "9": {
+    "caption_en": "A white colored sandwich.",
+    "images": [
+      {
+        "image_id": 1000036,
+        "path": "drawbench/9/image_4.png"
+      },
+      {
+        "image_id": 1000037,
+        "path": "drawbench/9/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "10": {
+    "caption_en": "A black colored sandwich.",
+    "images": [],
+    "sdxl_score": 1.6666666666666667
+  },
+  "11": {
+    "caption_en": "An orange colored sandwich.",
+    "images": [
+      {
+        "image_id": 1000044,
+        "path": "drawbench/11/image_4.png"
+      },
+      {
+        "image_id": 1000045,
+        "path": "drawbench/11/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "12": {
+    "caption_en": "A pink colored giraffe.",
+    "images": [
+      {
+        "image_id": 1000048,
+        "path": "drawbench/12/image_4.png"
+      },
+      {
+        "image_id": 1000049,
+        "path": "drawbench/12/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "13": {
+    "caption_en": "A yellow colored giraffe.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "14": {
+    "caption_en": "A brown colored giraffe.",
+    "images": [
+      {
+        "image_id": 1000056,
+        "path": "drawbench/14/image_4.png"
+      },
+      {
+        "image_id": 1000057,
+        "path": "drawbench/14/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "15": {
+    "caption_en": "A red car and a white sheep.",
+    "images": [
+      {
+        "image_id": 1000060,
+        "path": "drawbench/15/image_4.png"
+      },
+      {
+        "image_id": 1000061,
+        "path": "drawbench/15/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "16": {
+    "caption_en": "A blue bird and a brown bear.",
+    "images": [
+      {
+        "image_id": 1000064,
+        "path": "drawbench/16/image_4.png"
+      },
+      {
+        "image_id": 1000065,
+        "path": "drawbench/16/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "17": {
+    "caption_en": "A green apple and a black backpack.",
+    "images": [
+      {
+        "image_id": 1000068,
+        "path": "drawbench/17/image_4.png"
+      },
+      {
+        "image_id": 1000069,
+        "path": "drawbench/17/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "18": {
+    "caption_en": "A green cup and a blue cell phone.",
+    "images": [],
+    "sdxl_score": 1.25
+  },
+  "19": {
+    "caption_en": "A yellow book and a red vase.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "20": {
+    "caption_en": "A white car and a red sheep.",
+    "images": [
+      {
+        "image_id": 1000080,
+        "path": "drawbench/20/image_4.png"
+      },
+      {
+        "image_id": 1000081,
+        "path": "drawbench/20/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "21": {
+    "caption_en": "A brown bird and a blue bear.",
+    "images": [],
+    "sdxl_score": 1.3333333333333333
+  },
+  "22": {
+    "caption_en": "A black apple and a green backpack.",
+    "images": [
+      {
+        "image_id": 1000088,
+        "path": "drawbench/22/image_4.png"
+      },
+      {
+        "image_id": 1000089,
+        "path": "drawbench/22/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "23": {
+    "caption_en": "A blue cup and a green cell phone.",
+    "images": [],
+    "sdxl_score": 1.4166666666666665
+  },
+  "24": {
+    "caption_en": "A red book and a yellow vase.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "25": {
+    "caption_en": "A horse riding an astronaut.",
+    "images": [],
+    "sdxl_score": 1.3333333333333333
+  },
+  "26": {
+    "caption_en": "A pizza cooking an oven.",
+    "images": [
+      {
+        "image_id": 1000104,
+        "path": "drawbench/26/image_4.png"
+      },
+      {
+        "image_id": 1000105,
+        "path": "drawbench/26/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "27": {
+    "caption_en": "A bird scaring a scarecrow.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "28": {
+    "caption_en": "A blue coloured pizza.",
+    "images": [],
+    "sdxl_score": 1.0
+  },
+  "29": {
+    "caption_en": "Hovering cow abducting aliens.",
+    "images": [
+      {
+        "image_id": 1000116,
+        "path": "drawbench/29/image_4.png"
+      },
+      {
+        "image_id": 1000117,
+        "path": "drawbench/29/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "30": {
+    "caption_en": "A panda making latte art.",
+    "images": [
+      {
+        "image_id": 1000120,
+        "path": "drawbench/30/image_4.png"
+      },
+      {
+        "image_id": 1000121,
+        "path": "drawbench/30/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "31": {
+    "caption_en": "A shark in the desert.",
+    "images": [
+      {
+        "image_id": 1000124,
+        "path": "drawbench/31/image_4.png"
+      },
+      {
+        "image_id": 1000125,
+        "path": "drawbench/31/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "32": {
+    "caption_en": "An elephant under the sea.",
+    "images": [
+      {
+        "image_id": 1000128,
+        "path": "drawbench/32/image_4.png"
+      },
+      {
+        "image_id": 1000129,
+        "path": "drawbench/32/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "33": {
+    "caption_en": "Rainbow coloured penguin.",
+    "images": [
+      {
+        "image_id": 1000132,
+        "path": "drawbench/33/image_4.png"
+      },
+      {
+        "image_id": 1000133,
+        "path": "drawbench/33/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "34": {
+    "caption_en": "A fish eating a pelican.",
+    "images": [],
+    "sdxl_score": -1.0
+  },
+  "35": {
+    "caption_en": "One car on the street.",
+    "images": [
+      {
+        "image_id": 1000140,
+        "path": "drawbench/35/image_4.png"
+      },
+      {
+        "image_id": 1000141,
+        "path": "drawbench/35/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "36": {
+    "caption_en": "Two cars on the street.",
+    "images": [],
+    "sdxl_score": 1.6666666666666667
+  },
+  "37": {
+    "caption_en": "Three cars on the street.",
+    "images": [
+      {
+        "image_id": 1000148,
+        "path": "drawbench/37/image_4.png"
+      },
+      {
+        "image_id": 1000149,
+        "path": "drawbench/37/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "38": {
+    "caption_en": "Four cars on the street.",
+    "images": [
+      {
+        "image_id": 1000152,
+        "path": "drawbench/38/image_4.png"
+      },
+      {
+        "image_id": 1000153,
+        "path": "drawbench/38/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "39": {
+    "caption_en": "Five cars on the street.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "40": {
+    "caption_en": "One dog on the street.",
+    "images": [
+      {
+        "image_id": 1000160,
+        "path": "drawbench/40/image_4.png"
+      },
+      {
+        "image_id": 1000161,
+        "path": "drawbench/40/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "41": {
+    "caption_en": "Two dogs on the street.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "42": {
+    "caption_en": "Three dogs on the street.",
+    "images": [
+      {
+        "image_id": 1000168,
+        "path": "drawbench/42/image_4.png"
+      },
+      {
+        "image_id": 1000169,
+        "path": "drawbench/42/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "43": {
+    "caption_en": "Four dogs on the street.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "44": {
+    "caption_en": "Five dogs on the street.",
+    "images": [
+      {
+        "image_id": 1000176,
+        "path": "drawbench/44/image_4.png"
+      },
+      {
+        "image_id": 1000177,
+        "path": "drawbench/44/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "45": {
+    "caption_en": "One cat and one dog sitting on the grass.",
+    "images": [
+      {
+        "image_id": 1000180,
+        "path": "drawbench/45/image_4.png"
+      },
+      {
+        "image_id": 1000181,
+        "path": "drawbench/45/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "46": {
+    "caption_en": "One cat and two dogs sitting on the grass.",
+    "images": [],
+    "sdxl_score": 1.6666666666666665
+  },
+  "47": {
+    "caption_en": "One cat and three dogs sitting on the grass.",
+    "images": [
+      {
+        "image_id": 1000188,
+        "path": "drawbench/47/image_4.png"
+      },
+      {
+        "image_id": 1000189,
+        "path": "drawbench/47/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "48": {
+    "caption_en": "Two cats and one dog sitting on the grass.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "49": {
+    "caption_en": "Two cats and two dogs sitting on the grass.",
+    "images": [
+      {
+        "image_id": 1000196,
+        "path": "drawbench/49/image_4.png"
+      },
+      {
+        "image_id": 1000197,
+        "path": "drawbench/49/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "50": {
+    "caption_en": "Two cats and three dogs sitting on the grass.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "51": {
+    "caption_en": "Three cats and one dog sitting on the grass.",
+    "images": [],
+    "sdxl_score": 1.6666666666666665
+  },
+  "52": {
+    "caption_en": "Three cats and two dogs sitting on the grass.",
+    "images": [],
+    "sdxl_score": 1.6666666666666667
+  },
+  "53": {
+    "caption_en": "Three cats and three dogs sitting on the grass.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "54": {
+    "caption_en": "A triangular purple flower pot. A purple flower pot in the shape of a triangle.",
+    "images": [],
+    "sdxl_score": 1.3333333333333335
+  },
+  "55": {
+    "caption_en": "A triangular orange picture frame. An orange picture frame in the shape of a triangle.",
+    "images": [
+      {
+        "image_id": 1000220,
+        "path": "drawbench/55/image_4.png"
+      },
+      {
+        "image_id": 1000221,
+        "path": "drawbench/55/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "56": {
+    "caption_en": "A triangular pink stop sign. A pink stop sign in the shape of a triangle.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "57": {
+    "caption_en": "A cube made of denim. A cube with the texture of denim.",
+    "images": [
+      {
+        "image_id": 1000228,
+        "path": "drawbench/57/image_4.png"
+      },
+      {
+        "image_id": 1000229,
+        "path": "drawbench/57/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "58": {
+    "caption_en": "A sphere made of kitchen tile. A sphere with the texture of kitchen tile.",
+    "images": [],
+    "sdxl_score": 1.6666666666666667
+  },
+  "59": {
+    "caption_en": "A cube made of brick. A cube with the texture of brick.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "60": {
+    "caption_en": "A collection of nail is sitting on a table.",
+    "images": [
+      {
+        "image_id": 1000240,
+        "path": "drawbench/60/image_4.png"
+      },
+      {
+        "image_id": 1000241,
+        "path": "drawbench/60/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "61": {
+    "caption_en": "A single clock is sitting on a table.",
+    "images": [
+      {
+        "image_id": 1000244,
+        "path": "drawbench/61/image_4.png"
+      },
+      {
+        "image_id": 1000245,
+        "path": "drawbench/61/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "62": {
+    "caption_en": "A couple of glasses are sitting on a table.",
+    "images": [
+      {
+        "image_id": 1000248,
+        "path": "drawbench/62/image_4.png"
+      },
+      {
+        "image_id": 1000249,
+        "path": "drawbench/62/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "63": {
+    "caption_en": "An illustration of a large red elephant sitting on a small blue mouse.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "64": {
+    "caption_en": "An illustration of a small green elephant standing behind a large red mouse.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "65": {
+    "caption_en": "A small blue book sitting on a large red book.",
+    "images": [],
+    "sdxl_score": 1.1666666666666665
+  },
+  "66": {
+    "caption_en": "A stack of 3 plates. A blue plate is on the top, sitting on a blue plate. The blue plate is in the middle, sitting on a green plate. The green plate is on the bottom.",
+    "images": [],
+    "sdxl_score": 1.3333333333333333
+  },
+  "67": {
+    "caption_en": "A stack of 3 cubes. A red cube is on the top, sitting on a red cube. The red cube is in the middle, sitting on a green cube. The green cube is on the bottom.",
+    "images": [],
+    "sdxl_score": 1.1666666666666665
+  },
+  "68": {
+    "caption_en": "A stack of 3 books. A green book is on the top, sitting on a red book. The red book is in the middle, sitting on a blue book. The blue book is on the bottom.",
+    "images": [],
+    "sdxl_score": 1.1666666666666665
+  },
+  "69": {
+    "caption_en": "An emoji of a baby panda wearing a red hat, green gloves, red shirt, and green pants.",
+    "images": [],
+    "sdxl_score": 1.6666666666666665
+  },
+  "70": {
+    "caption_en": "An emoji of a baby panda wearing a red hat, blue gloves, green shirt, and blue pants.",
+    "images": [
+      {
+        "image_id": 1000280,
+        "path": "drawbench/70/image_4.png"
+      },
+      {
+        "image_id": 1000281,
+        "path": "drawbench/70/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "71": {
+    "caption_en": "A fisheye lens view of a turtle sitting in a forest.",
+    "images": [
+      {
+        "image_id": 1000284,
+        "path": "drawbench/71/image_4.png"
+      },
+      {
+        "image_id": 1000285,
+        "path": "drawbench/71/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "72": {
+    "caption_en": "A side view of an owl sitting in a field.",
+    "images": [
+      {
+        "image_id": 1000288,
+        "path": "drawbench/72/image_4.png"
+      },
+      {
+        "image_id": 1000289,
+        "path": "drawbench/72/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "73": {
+    "caption_en": "A cross-section view of a brain.",
+    "images": [],
+    "sdxl_score": 1.6666666666666665
+  },
+  "74": {
+    "caption_en": "A vehicle composed of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "75": {
+    "caption_en": "A large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.",
+    "images": [
+      {
+        "image_id": 1000300,
+        "path": "drawbench/75/image_4.png"
+      },
+      {
+        "image_id": 1000301,
+        "path": "drawbench/75/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "76": {
+    "caption_en": "A small vessel propelled on water by oars, sails, or an engine.",
+    "images": [
+      {
+        "image_id": 1000304,
+        "path": "drawbench/76/image_4.png"
+      },
+      {
+        "image_id": 1000305,
+        "path": "drawbench/76/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "77": {
+    "caption_en": "A connection point by which firefighters can tap into a water supply.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "78": {
+    "caption_en": "A machine next to a parking space in a street, into which the driver puts money so as to be authorized to park the vehicle for a particular length of time.",
+    "images": [],
+    "sdxl_score": 1.6666666666666667
+  },
+  "79": {
+    "caption_en": "A device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sometimes sun.",
+    "images": [
+      {
+        "image_id": 1000316,
+        "path": "drawbench/79/image_4.png"
+      },
+      {
+        "image_id": 1000317,
+        "path": "drawbench/79/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "80": {
+    "caption_en": "A separate seat for one person, typically with a back and four legs.",
+    "images": [],
+    "sdxl_score": 0.25
+  },
+  "81": {
+    "caption_en": "An appliance or compartment which is artificially kept cool and used to store food and drink.",
+    "images": [
+      {
+        "image_id": 1000324,
+        "path": "drawbench/81/image_4.png"
+      },
+      {
+        "image_id": 1000325,
+        "path": "drawbench/81/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "82": {
+    "caption_en": "A mechanical or electrical device for measuring time.",
+    "images": [
+      {
+        "image_id": 1000328,
+        "path": "drawbench/82/image_4.png"
+      },
+      {
+        "image_id": 1000329,
+        "path": "drawbench/82/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "83": {
+    "caption_en": "An instrument used for cutting cloth, paper, and other thin material, consisting of two blades laid one on top of the other and fastened in the middle so as to allow them to be opened and closed by a thumb and finger inserted through rings on the end of their handles.",
+    "images": [],
+    "sdxl_score": 0.6666666666666667
+  },
+  "84": {
+    "caption_en": "A large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail, used for riding, racing, and to carry and pull loads.",
+    "images": [
+      {
+        "image_id": 1000336,
+        "path": "drawbench/84/image_4.png"
+      },
+      {
+        "image_id": 1000337,
+        "path": "drawbench/84/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "85": {
+    "caption_en": "A long curved fruit which grows in clusters and has soft pulpy flesh and yellow skin when ripe.",
+    "images": [],
+    "sdxl_score": 1.6666666666666667
+  },
+  "86": {
+    "caption_en": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractable claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.",
+    "images": [],
+    "sdxl_score": 1.4166666666666665
+  },
+  "87": {
+    "caption_en": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractable claws, and a barking, howling, or whining voice.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "88": {
+    "caption_en": "An organ of soft nervous tissue contained in the skull of vertebrates, functioning as the coordinating center of sensation and intellectual and nervous activity.",
+    "images": [],
+    "sdxl_score": 1.0
+  },
+  "89": {
+    "caption_en": "An American multinational technology company that focuses on artificial intelligence, search engine, online advertising, cloud computing, computer software, quantum computing, e-commerce, and consumer electronics.",
+    "images": [],
+    "sdxl_score": 1.0
+  },
+  "90": {
+    "caption_en": "A large keyboard musical instrument with a wooden case enclosing a soundboard and metal strings, which are struck by hammers when the keys are depressed. The strings' vibration is stopped by dampers when the keys are released and can be regulated for length and volume by two or three pedals.",
+    "images": [
+      {
+        "image_id": 1000360,
+        "path": "drawbench/90/image_4.png"
+      },
+      {
+        "image_id": 1000361,
+        "path": "drawbench/90/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "91": {
+    "caption_en": "A type of digital currency in which a record of transactions is maintained and new units of currency are generated by the computational solution of mathematical problems, and which operates independently of a central bank.",
+    "images": [],
+    "sdxl_score": 1.3333333333333333
+  },
+  "92": {
+    "caption_en": "A large thick-skinned semiaquatic African mammal, with massive jaws and large tusks.",
+    "images": [
+      {
+        "image_id": 1000368,
+        "path": "drawbench/92/image_4.png"
+      },
+      {
+        "image_id": 1000369,
+        "path": "drawbench/92/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "93": {
+    "caption_en": "A machine resembling a human being and able to replicate certain human movements and functions automatically.",
+    "images": [
+      {
+        "image_id": 1000372,
+        "path": "drawbench/93/image_4.png"
+      },
+      {
+        "image_id": 1000373,
+        "path": "drawbench/93/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "94": {
+    "caption_en": "Paying for a quarter-sized pizza with a pizza-sized quarter.",
+    "images": [],
+    "sdxl_score": -1.0
+  },
+  "95": {
+    "caption_en": "An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with no umbrellas.",
+    "images": [
+      {
+        "image_id": 1000380,
+        "path": "drawbench/95/image_4.png"
+      },
+      {
+        "image_id": 1000381,
+        "path": "drawbench/95/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "96": {
+    "caption_en": "A grocery store refrigerator has pint cartons of milk on the top shelf, quart cartons on the middle shelf, and gallon plastic jugs on the bottom shelf.",
+    "images": [],
+    "sdxl_score": 1.3333333333333333
+  },
+  "97": {
+    "caption_en": "In late afternoon in January in New England, a man stands in the shadow of a maple tree.",
+    "images": [
+      {
+        "image_id": 1000388,
+        "path": "drawbench/97/image_4.png"
+      },
+      {
+        "image_id": 1000389,
+        "path": "drawbench/97/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "98": {
+    "caption_en": "An elephant is behind a tree. You can see the trunk on one side and the back legs on the other.",
+    "images": [
+      {
+        "image_id": 1000392,
+        "path": "drawbench/98/image_4.png"
+      },
+      {
+        "image_id": 1000393,
+        "path": "drawbench/98/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "99": {
+    "caption_en": "A tomato has been put on top of a pumpkin on a kitchen stool. There is a fork sticking into the pumpkin. The scene is viewed from above.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "100": {
+    "caption_en": "A pear cut into seven pieces arranged in a ring.",
+    "images": [],
+    "sdxl_score": 1.25
+  },
+  "101": {
+    "caption_en": "A donkey and an octopus are playing a game. The donkey is holding a rope on one end, the octopus is holding onto the other. The donkey holds the rope in its mouth. A cat is jumping over the rope.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "102": {
+    "caption_en": "Supreme Court Justices play a baseball game with the FBI. The FBI is at bat, the justices are on the field.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "103": {
+    "caption_en": "Abraham Lincoln touches his toes while George Washington does chin-ups. Lincoln is barefoot. Washington is wearing boots.",
+    "images": [],
+    "sdxl_score": 1.3333333333333333
+  },
+  "104": {
+    "caption_en": "Tcennis rpacket.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "105": {
+    "caption_en": "Bzaseball galove.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "106": {
+    "caption_en": "Rbefraigerator.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "107": {
+    "caption_en": "Dininrg tablez.",
+    "images": [
+      {
+        "image_id": 1000428,
+        "path": "drawbench/107/image_4.png"
+      },
+      {
+        "image_id": 1000429,
+        "path": "drawbench/107/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "108": {
+    "caption_en": "Pafrking metr.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "109": {
+    "caption_en": "A smafml vessef epropoeilled on watvewr by ors, sauls, or han engie.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "110": {
+    "caption_en": "A sjmall domesticated carnivorious mammnal with sof fuh,y a sthort sout, and retracwtablbe flaws. It iw widexly kept as a pet or for catchitng mic, ad many breeds zhlyde beefn develvoked.",
+    "images": [
+      {
+        "image_id": 1000440,
+        "path": "drawbench/110/image_4.png"
+      },
+      {
+        "image_id": 1000441,
+        "path": "drawbench/110/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "111": {
+    "caption_en": "An instqrumemnt used for cutting cloth, paper, axdz othr thdin mteroial, consamistng of two blades lad one on tvopb of the other and fhastned in tle mixdqdjle so as to bllow them txo be pened and closed by thumb and fitngesr inserted tgrough rings on kthe end oc thei vatndlzes.",
+    "images": [],
+    "sdxl_score": -0.5
+  },
+  "112": {
+    "caption_en": "A domesticated carnivvorous mzammal that typicbally hfaas a lons sfnout, an acxujte sense off osmell, noneetractaaln crlaws, anid xbarkring,y howlingu, or whining rvoiche.",
+    "images": [],
+    "sdxl_score": 1.0
+  },
+  "113": {
+    "caption_en": "A ldarge keybord msical instroument lwith a woden case enmclosig a qsouvnkboajrd and mfgtal strivgf, which are strucrk b hammrs when the nels are depresdsmed.f lhe strsingsj' vibration ie stopped by damperds when the keys re released and can bce regulavewdd for lengh and vnolume y two or three pedalvs.",
+    "images": [],
+    "sdxl_score": -0.5
+  },
+  "114": {
+    "caption_en": "A train on top of a surfboard.",
+    "images": [],
+    "sdxl_score": 0.5833333333333334
+  },
+  "115": {
+    "caption_en": "A wine glass on top of a dog.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "116": {
+    "caption_en": "A bicycle on top of a boat.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "117": {
+    "caption_en": "An umbrella on top of a spoon.",
+    "images": [
+      {
+        "image_id": 1000468,
+        "path": "drawbench/117/image_4.png"
+      },
+      {
+        "image_id": 1000469,
+        "path": "drawbench/117/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "118": {
+    "caption_en": "A laptop on top of a teddy bear.",
+    "images": [
+      {
+        "image_id": 1000472,
+        "path": "drawbench/118/image_4.png"
+      },
+      {
+        "image_id": 1000473,
+        "path": "drawbench/118/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "119": {
+    "caption_en": "A giraffe underneath a microwave.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "120": {
+    "caption_en": "A donut underneath a toilet.",
+    "images": [],
+    "sdxl_score": 1.6666666666666665
+  },
+  "121": {
+    "caption_en": "A hair drier underneath a sheep.",
+    "images": [
+      {
+        "image_id": 1000484,
+        "path": "drawbench/121/image_4.png"
+      },
+      {
+        "image_id": 1000485,
+        "path": "drawbench/121/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "122": {
+    "caption_en": "A tennis racket underneath a traffic light.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "123": {
+    "caption_en": "A zebra underneath a broccoli.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "124": {
+    "caption_en": "A banana on the left of an apple.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "125": {
+    "caption_en": "A couch on the left of a chair.",
+    "images": [],
+    "sdxl_score": 1.6666666666666665
+  },
+  "126": {
+    "caption_en": "A car on the left of a bus.",
+    "images": [],
+    "sdxl_score": 0.33333333333333337
+  },
+  "127": {
+    "caption_en": "A cat on the left of a dog.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "128": {
+    "caption_en": "A carrot on the left of a broccoli.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "129": {
+    "caption_en": "A pizza on the right of a suitcase.",
+    "images": [
+      {
+        "image_id": 1000516,
+        "path": "drawbench/129/image_4.png"
+      },
+      {
+        "image_id": 1000517,
+        "path": "drawbench/129/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "130": {
+    "caption_en": "A cat on the right of a tennis racket.",
+    "images": [],
+    "sdxl_score": 0.33333333333333337
+  },
+  "131": {
+    "caption_en": "A stop sign on the right of a refrigerator.",
+    "images": [
+      {
+        "image_id": 1000524,
+        "path": "drawbench/131/image_4.png"
+      },
+      {
+        "image_id": 1000525,
+        "path": "drawbench/131/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "132": {
+    "caption_en": "A sheep to the right of a wine glass.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "133": {
+    "caption_en": "A zebra to the right of a fire hydrant.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "134": {
+    "caption_en": "Acersecomicke.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "135": {
+    "caption_en": "Jentacular.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "136": {
+    "caption_en": "Matutinal.",
+    "images": [],
+    "sdxl_score": -0.16666666666666666
+  },
+  "137": {
+    "caption_en": "Peristeronic.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "138": {
+    "caption_en": "Artophagous.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "139": {
+    "caption_en": "Backlotter.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "140": {
+    "caption_en": "Octothorpe.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "141": {
+    "caption_en": "A church with stained glass windows depicting a hamburger and french fries.",
+    "images": [
+      {
+        "image_id": 1000564,
+        "path": "drawbench/141/image_4.png"
+      },
+      {
+        "image_id": 1000565,
+        "path": "drawbench/141/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "142": {
+    "caption_en": "Painting of the orange cat Otto von Garfield, Count of Bismarck-Schönhausen, Duke of Lauenburg, Minister-President of Prussia. Depicted wearing a Prussian Pickelhaube and eating his favorite meal - lasagna.",
+    "images": [
+      {
+        "image_id": 1000568,
+        "path": "drawbench/142/image_4.png"
+      },
+      {
+        "image_id": 1000569,
+        "path": "drawbench/142/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "143": {
+    "caption_en": "A baby fennec sneezing onto a strawberry, detailed, macro, studio light, droplets, backlit ears.",
+    "images": [
+      {
+        "image_id": 1000572,
+        "path": "drawbench/143/image_4.png"
+      },
+      {
+        "image_id": 1000573,
+        "path": "drawbench/143/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "144": {
+    "caption_en": "A photo of a confused grizzly bear in calculus class.",
+    "images": [
+      {
+        "image_id": 1000576,
+        "path": "drawbench/144/image_4.png"
+      },
+      {
+        "image_id": 1000577,
+        "path": "drawbench/144/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "145": {
+    "caption_en": "An ancient Egyptian painting depicting an argument over whose turn it is to take out the trash.",
+    "images": [
+      {
+        "image_id": 1000580,
+        "path": "drawbench/145/image_4.png"
+      },
+      {
+        "image_id": 1000581,
+        "path": "drawbench/145/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "146": {
+    "caption_en": "A fluffy baby sloth with a knitted hat trying to figure out a laptop, close up, highly detailed, studio lighting, screen reflecting in its eyes.",
+    "images": [
+      {
+        "image_id": 1000584,
+        "path": "drawbench/146/image_4.png"
+      },
+      {
+        "image_id": 1000585,
+        "path": "drawbench/146/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "147": {
+    "caption_en": "A tiger in a lab coat with a 1980s Miami vibe, turning a well oiled science content machine, digital art.",
+    "images": [
+      {
+        "image_id": 1000588,
+        "path": "drawbench/147/image_4.png"
+      },
+      {
+        "image_id": 1000589,
+        "path": "drawbench/147/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "148": {
+    "caption_en": "A 1960s yearbook photo with animals dressed as humans.",
+    "images": [
+      {
+        "image_id": 1000592,
+        "path": "drawbench/148/image_4.png"
+      },
+      {
+        "image_id": 1000593,
+        "path": "drawbench/148/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "149": {
+    "caption_en": "Lego Arnold Schwarzenegger.",
+    "images": [
+      {
+        "image_id": 1000596,
+        "path": "drawbench/149/image_4.png"
+      },
+      {
+        "image_id": 1000597,
+        "path": "drawbench/149/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "150": {
+    "caption_en": "A yellow and black bus cruising through the rainforest.",
+    "images": [
+      {
+        "image_id": 1000600,
+        "path": "drawbench/150/image_4.png"
+      },
+      {
+        "image_id": 1000601,
+        "path": "drawbench/150/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "151": {
+    "caption_en": "A medieval painting of the wifi not working.",
+    "images": [],
+    "sdxl_score": 1.6666666666666667
+  },
+  "152": {
+    "caption_en": "An IT-guy trying to fix hardware of a PC tower is being tangled by the PC cables like Laokoon. Marble, copy after Hellenistic original from ca. 200 BC. Found in the Baths of Trajan, 1506.",
+    "images": [],
+    "sdxl_score": 1.3333333333333335
+  },
+  "153": {
+    "caption_en": "35mm macro shot a kitten licking a baby duck, studio lighting.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "154": {
+    "caption_en": "McDonalds Church.",
+    "images": [
+      {
+        "image_id": 1000616,
+        "path": "drawbench/154/image_4.png"
+      },
+      {
+        "image_id": 1000617,
+        "path": "drawbench/154/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "155": {
+    "caption_en": "Photo of an athlete cat explaining it's latest scandal at a press conference to journalists.",
+    "images": [
+      {
+        "image_id": 1000620,
+        "path": "drawbench/155/image_4.png"
+      },
+      {
+        "image_id": 1000621,
+        "path": "drawbench/155/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "156": {
+    "caption_en": "Greek statue of a man tripping over a cat.",
+    "images": [
+      {
+        "image_id": 1000624,
+        "path": "drawbench/156/image_4.png"
+      },
+      {
+        "image_id": 1000625,
+        "path": "drawbench/156/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "157": {
+    "caption_en": "An old photograph of a 1920s airship shaped like a pig, floating over a wheat field.",
+    "images": [
+      {
+        "image_id": 1000628,
+        "path": "drawbench/157/image_4.png"
+      },
+      {
+        "image_id": 1000629,
+        "path": "drawbench/157/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "158": {
+    "caption_en": "Photo of a cat singing in a barbershop quartet.",
+    "images": [
+      {
+        "image_id": 1000632,
+        "path": "drawbench/158/image_4.png"
+      },
+      {
+        "image_id": 1000633,
+        "path": "drawbench/158/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "159": {
+    "caption_en": "A painting by Grant Wood of an astronaut couple, american gothic style.",
+    "images": [
+      {
+        "image_id": 1000636,
+        "path": "drawbench/159/image_4.png"
+      },
+      {
+        "image_id": 1000637,
+        "path": "drawbench/159/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "160": {
+    "caption_en": "An oil painting portrait of the regal Burger King posing with a Whopper.",
+    "images": [
+      {
+        "image_id": 1000640,
+        "path": "drawbench/160/image_4.png"
+      },
+      {
+        "image_id": 1000641,
+        "path": "drawbench/160/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "161": {
+    "caption_en": "A keyboard made of water, the water is made of light, the light is turned off.",
+    "images": [],
+    "sdxl_score": 0.25
+  },
+  "162": {
+    "caption_en": "Painting of Mona Lisa but the view is from behind of Mona Lisa.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "163": {
+    "caption_en": "Hyper-realistic photo of an abandoned industrial site during a storm.",
+    "images": [
+      {
+        "image_id": 1000652,
+        "path": "drawbench/163/image_4.png"
+      },
+      {
+        "image_id": 1000653,
+        "path": "drawbench/163/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "164": {
+    "caption_en": "A screenshot of an iOS app for ordering different types of milk.",
+    "images": [],
+    "sdxl_score": 0.25
+  },
+  "165": {
+    "caption_en": "A real life photography of super mario, 8k Ultra HD.",
+    "images": [
+      {
+        "image_id": 1000660,
+        "path": "drawbench/165/image_4.png"
+      },
+      {
+        "image_id": 1000661,
+        "path": "drawbench/165/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "166": {
+    "caption_en": "Colouring page of large cats climbing the eifel tower in a cyberpunk future.",
+    "images": [
+      {
+        "image_id": 1000664,
+        "path": "drawbench/166/image_4.png"
+      },
+      {
+        "image_id": 1000665,
+        "path": "drawbench/166/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "167": {
+    "caption_en": "Photo of a mega Lego space station inside a kid's bedroom.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  },
+  "168": {
+    "caption_en": "A spider with a moustache bidding an equally gentlemanly grasshopper a good day during his walk to work.",
+    "images": [],
+    "sdxl_score": 1.5
+  },
+  "169": {
+    "caption_en": "A photocopy of a photograph of a painting of a sculpture of a giraffe.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "170": {
+    "caption_en": "A bridge connecting Europe and North America on the Atlantic Ocean, bird's eye view.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "171": {
+    "caption_en": "A maglev train going vertically downward in high speed, New York Times photojournalism.",
+    "images": [
+      {
+        "image_id": 1000684,
+        "path": "drawbench/171/image_4.png"
+      },
+      {
+        "image_id": 1000685,
+        "path": "drawbench/171/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "172": {
+    "caption_en": "A magnifying glass over a page of a 1950s batman comic.",
+    "images": [
+      {
+        "image_id": 1000688,
+        "path": "drawbench/172/image_4.png"
+      },
+      {
+        "image_id": 1000689,
+        "path": "drawbench/172/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "173": {
+    "caption_en": "A car playing soccer, digital art.",
+    "images": [
+      {
+        "image_id": 1000692,
+        "path": "drawbench/173/image_4.png"
+      },
+      {
+        "image_id": 1000693,
+        "path": "drawbench/173/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "174": {
+    "caption_en": "Darth Vader playing with raccoon in Mars during sunset.",
+    "images": [
+      {
+        "image_id": 1000696,
+        "path": "drawbench/174/image_4.png"
+      },
+      {
+        "image_id": 1000697,
+        "path": "drawbench/174/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "175": {
+    "caption_en": "A 1960s poster warning against climate change.",
+    "images": [],
+    "sdxl_score": -1.0
+  },
+  "176": {
+    "caption_en": "Illustration of a mouse using a mushroom as an umbrella.",
+    "images": [
+      {
+        "image_id": 1000704,
+        "path": "drawbench/176/image_4.png"
+      },
+      {
+        "image_id": 1000705,
+        "path": "drawbench/176/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "177": {
+    "caption_en": "A realistic photo of a Pomeranian dressed up like a 1980s professional wrestler with neon green and neon orange face paint and bright green wrestling tights with bright orange boots.",
+    "images": [
+      {
+        "image_id": 1000708,
+        "path": "drawbench/177/image_4.png"
+      },
+      {
+        "image_id": 1000709,
+        "path": "drawbench/177/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "178": {
+    "caption_en": "A pyramid made of falafel with a partial solar eclipse in the background.",
+    "images": [
+      {
+        "image_id": 1000712,
+        "path": "drawbench/178/image_4.png"
+      },
+      {
+        "image_id": 1000713,
+        "path": "drawbench/178/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "179": {
+    "caption_en": "A storefront with 'Hello World' written on it.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "180": {
+    "caption_en": "A storefront with 'Diffusion' written on it.",
+    "images": [
+      {
+        "image_id": 1000720,
+        "path": "drawbench/180/image_4.png"
+      },
+      {
+        "image_id": 1000721,
+        "path": "drawbench/180/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "181": {
+    "caption_en": "A storefront with 'Text to Image' written on it.",
+    "images": [
+      {
+        "image_id": 1000724,
+        "path": "drawbench/181/image_4.png"
+      },
+      {
+        "image_id": 1000725,
+        "path": "drawbench/181/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "182": {
+    "caption_en": "A storefront with 'NeurIPS' written on it.",
+    "images": [],
+    "sdxl_score": 1.5833333333333335
+  },
+  "183": {
+    "caption_en": "A storefront with 'Deep Learning' written on it.",
+    "images": [
+      {
+        "image_id": 1000732,
+        "path": "drawbench/183/image_4.png"
+      },
+      {
+        "image_id": 1000733,
+        "path": "drawbench/183/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "184": {
+    "caption_en": "A storefront with 'Google Brain Toronto' written on it.",
+    "images": [
+      {
+        "image_id": 1000736,
+        "path": "drawbench/184/image_4.png"
+      },
+      {
+        "image_id": 1000737,
+        "path": "drawbench/184/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "185": {
+    "caption_en": "A storefront with 'Google Research Pizza Cafe' written on it.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "186": {
+    "caption_en": "A sign that says 'Hello World'.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "187": {
+    "caption_en": "A sign that says 'Diffusion'.",
+    "images": [],
+    "sdxl_score": 0.8333333333333334
+  },
+  "188": {
+    "caption_en": "A sign that says 'Text to Image'.",
+    "images": [],
+    "sdxl_score": 0.5
+  },
+  "189": {
+    "caption_en": "A sign that says 'NeurIPS'.",
+    "images": [],
+    "sdxl_score": -1.0
+  },
+  "190": {
+    "caption_en": "A sign that says 'Deep Learning'.",
+    "images": [],
+    "sdxl_score": 0.75
+  },
+  "191": {
+    "caption_en": "A sign that says 'Google Brain Toronto'.",
+    "images": [],
+    "sdxl_score": 0.0
+  },
+  "192": {
+    "caption_en": "A sign that says 'Google Research Pizza Cafe'.",
+    "images": [
+      {
+        "image_id": 1000768,
+        "path": "drawbench/192/image_4.png"
+      },
+      {
+        "image_id": 1000769,
+        "path": "drawbench/192/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "193": {
+    "caption_en": "New York Skyline with 'Hello World' written with fireworks on the sky.",
+    "images": [
+      {
+        "image_id": 1000772,
+        "path": "drawbench/193/image_4.png"
+      },
+      {
+        "image_id": 1000773,
+        "path": "drawbench/193/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "194": {
+    "caption_en": "New York Skyline with 'Diffusion' written with fireworks on the sky.",
+    "images": [
+      {
+        "image_id": 1000776,
+        "path": "drawbench/194/image_4.png"
+      },
+      {
+        "image_id": 1000777,
+        "path": "drawbench/194/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "195": {
+    "caption_en": "New York Skyline with 'Text to Image' written with fireworks on the sky.",
+    "images": [],
+    "sdxl_score": 1.75
+  },
+  "196": {
+    "caption_en": "New York Skyline with 'NeurIPS' written with fireworks on the sky.",
+    "images": [
+      {
+        "image_id": 1000784,
+        "path": "drawbench/196/image_4.png"
+      },
+      {
+        "image_id": 1000785,
+        "path": "drawbench/196/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "197": {
+    "caption_en": "New York Skyline with 'Deep Learning' written with fireworks on the sky.",
+    "images": [
+      {
+        "image_id": 1000788,
+        "path": "drawbench/197/image_4.png"
+      },
+      {
+        "image_id": 1000789,
+        "path": "drawbench/197/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "198": {
+    "caption_en": "New York Skyline with 'Google Brain Toronto' written with fireworks on the sky.",
+    "images": [
+      {
+        "image_id": 1000792,
+        "path": "drawbench/198/image_4.png"
+      },
+      {
+        "image_id": 1000793,
+        "path": "drawbench/198/image_5.png"
+      }
+    ],
+    "sdxl_score": 2.0
+  },
+  "199": {
+    "caption_en": "New York Skyline with 'Google Research Pizza Cafe' written with fireworks on the sky.",
+    "images": [],
+    "sdxl_score": 1.8333333333333335
+  }
+}
