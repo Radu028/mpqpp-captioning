@@ -50,7 +50,8 @@ def loss_on(examples):
         with Image.open(example["image_path"]) as image:
             images.append(image.convert("RGB"))
 
-    captions = [example["caption"] for example in examples]
+    # BLIP-2 stops generating at "\n", so the model must learn to emit it after each caption.
+    captions = [example["caption"] + "\n" for example in examples]
     batch = processor(images=images, text=captions, padding=True, return_tensors="pt")
 
     labels = batch["input_ids"].clone()

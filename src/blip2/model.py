@@ -32,5 +32,5 @@ def caption(model, processor, image):
     inputs = to_cuda(inputs, model.dtype)
 
     with torch.inference_mode():
-        out = model.generate(**inputs, max_new_tokens=128, do_sample=False, num_beams=1)
+        out = model.generate(**inputs, max_new_tokens=256, do_sample=False, num_beams=1)
     return processor.batch_decode(out, skip_special_tokens=True)[0].strip()
