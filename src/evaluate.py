@@ -72,6 +72,7 @@ for path in paths:
         references = [refs[i] for i in indices]
         scores = {
             "bleu": sacrebleu.corpus_bleu(captions, [references], tokenize="13a").score,
+            "spbleu": sacrebleu.corpus_bleu(captions, [references], tokenize="flores200").score,
             "chrf++": sacrebleu.corpus_chrf(captions, [references], word_order=2).score,
             "bertscore": statistics.mean(bert_values[i] for i in indices),
             "comet": statistics.mean(float(comet_values[i]) for i in indices),

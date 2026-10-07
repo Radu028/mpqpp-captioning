@@ -6,11 +6,13 @@ def render_report(language, results):
         f"# Captioning results: {language}",
         "",
         "Fine-tuned: mean ± sample std across seeds. Δ: fine-tuned minus zero-shot.",
-        "Higher is better. BLEU and chrF++ are out of 100. BERTScore and COMET are unscaled.",
+        "Higher is better. BLEU, spBLEU and chrF++ are out of 100. BERTScore and COMET are unscaled.",
+        "spBLEU uses the same FLORES-200 SentencePiece tokenizer for every language.",
         "",
     ]
     metrics = (
         ("bleu", "BLEU"),
+        ("spbleu", "spBLEU"),
         ("chrf++", "chrF++"),
         ("bertscore", "BERTScore"),
         ("comet", "COMET"),

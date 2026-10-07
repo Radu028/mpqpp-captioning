@@ -69,6 +69,8 @@ Runs both models on one GPU, including generation and scoring:
   generation/evaluation seed. BLIP-2 uses rank 16 and Centurio uses rank 8.
 
 BLIP-2 zero-shot generates English captions, scored against your translations.
+Scoring downloads the spBLEU tokenizer to `~/.sacrebleu` the first time, so it
+needs internet access once.
 
 To run only one model, add `--models blip2` or `--models centurio`.
 If a run stops, run the same command again. It skips finished steps.
@@ -79,7 +81,7 @@ results from different inputs.
 ## 4. Results
 
 Open `runs/it/results.md` for zero-shot scores, fine-tuned mean ± std and
-deltas, using BLEU, chrF++, BERTScore and COMET. Per-seed scores are in
+deltas, using BLEU, spBLEU, chrF++, BERTScore and COMET. Per-seed scores are in
 `runs/it/results.csv`.
 
 Send **`results-it.zip`** privately to the team. It contains the reports,
